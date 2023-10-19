@@ -91,7 +91,9 @@ const ProductForm = () => {
           />
         </label>
         <div className="button-container">
-        <button type="submit">Submit</button>
+        <button type="submit">
+              Submit
+              </button>
         <button type="button" onClick={handleCancel}>
           Cancel
         </button>
